@@ -31,5 +31,11 @@
 *.out
 *.app
 
-# JetBrins CLion
+# JetBrains CLion
 .idea
+
+# cmake
+src/CMakeFiles
+src/cmake_install.cmake
+src/CMakeCache.txt
+src/Makefile
